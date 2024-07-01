@@ -1,0 +1,23 @@
+.article {
+    background-color: rgba(128, 128, 128, 0.744); 
+    
+
+
+}
+.article h1, h2, h3 {
+    color: rgba(251, 247, 247, 0.977);
+    padding-left: 5px;
+    text-decoration: underline;
+
+}
+
+p {
+    color: rgba(16, 15, 15, 0.758);
+
+}
+
+.div1 {
+    color: white;
+    display: flex;
+
+}
